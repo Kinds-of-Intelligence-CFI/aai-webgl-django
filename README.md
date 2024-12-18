@@ -279,7 +279,17 @@ The Django backend consists of multiple apps and modules that handle different a
     - Can be used to track participant interactions and data.
     - Can be used to export participant data for analysis.
 
+---
 
+## TODO:
 
-
+- [ ] Add tests for the Django backend.
+- [ ] Implement data export functionality for researchers.
+- [ ] Improve the participant declaration form.
+- [ ] Add more detailed instructions for setting up the platform.
+- [ ] Add more detailed documentation for researchers and participants.
+- [ ] Implement a more robust data analysis and visualization system.
+- [ ] Add more detailed error handling and logging.
+- [ ] Implement a more robust user authentication and authorization system.
+- [ ] Add more detailed instructions for deploying the platform to production.
 
